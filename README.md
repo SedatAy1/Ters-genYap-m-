@@ -1,2 +1,2 @@
-# Ters-genYap-m-
+# TersUcgenYapimi
 TersÜçgenYapımı
